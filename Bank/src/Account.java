@@ -1,8 +1,4 @@
-/*
-Creator: Aryaa Mutha
-Date: 9/30/24
-Purpose: simple bank interface for withdrawing and depositing money
- */
+
 
 class Account {
     private double balance;
